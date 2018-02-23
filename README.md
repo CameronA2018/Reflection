@@ -1,6 +1,13 @@
+# Reflection 4
+## 2/23/2018
+So far this week, we learned about if statements, nested if statements, if elif else statements, and and or statements, and how to change text colors through coding. The homework was granted an extension for until next Monday, so there is no excuse for there not to be damn near perfection on it. Utilizing my knowledge from my Temperature code, and what we just learned, there is also no reason that I shouldn't be able to write the best code for this project. As the coding gets more difficult, it will be essential to really buckle down and work to stay ahead because soon we begin iteration, or loops. Also, I need to be able to balance time I take to get ahead in this class with studying for ACT, as my math scores need to come up a lot. 
+
+---
+
 # Reflection 3
 ## 2/16/2018
 Over the course of this week we learned many different methods of splitting, slicing, reversing, copying and indexing strings. It was an easy week of learning, but the homework was the most challenging for me, yet. Particulary p2 in Hw4, which called for a program which took a single input of a first name, middle name, and last name in a single string, cut it, and then cut the middle name again to insert "-BOB-". The program also needed to convert all letters in all three names into capital letters, as well as reverse each name individually. p1 is simple as it calls for a simple .replace "\n", and p3 is just as simple as it calls for a simple rand.randint.
+
 ---
 
 # Reflection 2
