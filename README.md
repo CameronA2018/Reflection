@@ -1,3 +1,9 @@
+# Reflection 6
+## 03/09/2018
+Over the course of this week we learned how to make while statements, for statements, and I learned how to make code that detected repeating characters in a string. I also learned how to program a two dimensional array. This week I finished the sudoku problem not only first in the class, but on Thursday. I have been using my extra time for homework in otherclasses, as well as playing lots of Minecraft FTB Revelations. This week was challenging, but in all, has paved the way for a more successful semester.
+
+---
+
 # Reflection 5
 ## 03/01/2018
 This week we learned about making lists, and in parallel we were forced to learn how to detect if something was odd or even. I say this because Mr. Gold (bless His soul) has decided to throw curveballs to us to see if we can adapt. I have learned through this that these are to imitate the real issues that may occur in coding in the workforce. A big part of coding is being able to recognize an issue that needs to be solved, adapting by writing code to fix it, and threfore overcoming. Often new issues arise, and it takes longer to fix, just like last night's homework. I did not foresee some of the issues I had with p3, but through adapting and recognizing, I overcame. This is truly a valuable lesson, both for class and in life.
