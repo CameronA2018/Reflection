@@ -1,3 +1,9 @@
+# Reflection 7
+## 03/16/2018
+So far this week, we've learned about defining and then using functions. Other than that, it has been mainly a work week. Unfortunately, we will not be learning lambdas this year, however, I hope to teach myself something aobut them so that I may use them and other functions in my Google Friday assignment. I will be reworking my GF project to replace my hundreds of lines of code with more efficient loops and functions over the course of the next few weeks.
+
+---
+
 # Reflection 6
 ## 03/09/2018
 Over the course of this week we learned how to make while statements, for statements, and I learned how to make code that detected repeating characters in a string. I also learned how to program a two dimensional array. This week I finished the sudoku problem not only first in the class, but on Thursday. I have been using my extra time for homework in otherclasses, as well as playing lots of Minecraft FTB Revelations. This week was challenging, but in all, has paved the way for a more successful semester.
