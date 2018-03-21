@@ -1,3 +1,9 @@
+# Reflection 8
+## 03/21/2018
+This week we were given problems that required resolutions involving loops and functions. Admittedly, as hard as other problems and assignments have felt, none have been as hard as the last three problems we recieved. I'm not sure why, maybe I checked out mentally early last week. I will redouble my efforts following Spring Break. Throughout the duration of break, I will continue to try working on, and imporving my code for the last three problems in an attempt to finish the problems. I will also be working on the extra credit assingment so that I may bring my grade back up after the hit that this last assignment will give me. I've had a poor excuse of a week in all classes, and can't wait to come back refreshed and refocussed after break.
+
+---
+
 # Reflection 7
 ## 03/16/2018
 So far this week, we've learned about defining and then using functions. Other than that, it has been mainly a work week. Unfortunately, we will not be learning lambdas this year, however, I hope to teach myself something aobut them so that I may use them and other functions in my Google Friday assignment. I will be reworking my GF project to replace my hundreds of lines of code with more efficient loops and functions over the course of the next few weeks.
