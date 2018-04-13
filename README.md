@@ -1,3 +1,9 @@
+# Reflection 9
+## 04/13/2018
+Over the course of this week we were given the task of writing a code that acted like the popular game of dice. Three rolls, whoever had the highest number on their die twice won. Rather simple game to play, and to code. It wasn't that the task was difficult, we weren't re-inventing the wheel or anything...but what truly challenged us was the fact that we now had to take everything that we'd learned and apply it to our work. At first, it seemed daunting and I didn't feel I could do it. I procrastinated until two nights before it was due to even start it. And then ran into a snag; I didn't remember how to utilize a call funtion. I figured it out, and finished the project. Nothing new, just reviewing what may have been slightly rocky. Glad for this chance to review, might have saved me in the future.
+
+---
+
 # Reflection 8
 ## 03/21/2018
 This week we were given problems that required resolutions involving loops and functions. Admittedly, as hard as other problems and assignments have felt, none have been as hard as the last three problems we recieved. I'm not sure why, maybe I checked out mentally early last week. I will redouble my efforts following Spring Break. Throughout the duration of break, I will continue to try working on, and imporving my code for the last three problems in an attempt to finish the problems. I will also be working on the extra credit assingment so that I may bring my grade back up after the hit that this last assignment will give me. I've had a poor excuse of a week in all classes, and can't wait to come back refreshed and refocussed after break.
