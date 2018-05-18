@@ -1,6 +1,14 @@
+# Reflection FINAL
+## DOES IT MATTER? (05/18/2018)
+This year we have learned about a lot. Seriously, a lot. We've learned how to write simple boolean statements, ifs, while loops, for loops, and how to manipulate strings. It has been a blast. This class has provided an special and important insight into the world of computer coding that will help to shape the world and in the future, my life. This valuable insight will give me a proverbial leg up and allow me to accomplish tasks that would not have been possible otherwise, as well as honing my critical thinking skills. The coursework offered by Mr. Gold is a truly inspirational and fully comprehensive look into the basics of computer programming in the Python language. It will be sad to leave the course, and I look forward to coming back next year in Computer Programming 2 and kicking some serious ass using my experiences here in Computer Programming 1.
+
+---
+
 # Reflection 10
 ## 05/11/2018
 So far this week, we haven't learned "jack". We have solidified our knowledge of for loops and while loops, while continuing to use if statements for lack of better ideas. With Mr. Gold's constant assault on us utilizing the Codewars Katas, I am honing my skills as a programmer. The hardest kata so far was the "Square Every Digit" kata. This one in particular is giving me a run for my money, because every time I get close to solving it, it finds a way to break itself again. In theory, my code should work, but there is something about it that it doesn't like, because somewhere it finds an "invalid value for int() base 10". After the last time tryng to solve this issue, and getting the blasted message 18 times, I am giving it a rest and then going back to it. I'll break the code no matter what!
+
+---
 
 # Reflection 9
 ## 04/13/2018
